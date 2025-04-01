@@ -116,11 +116,11 @@ The project is developed on **Google Cloud Platform (GCP)**. Reports are collect
 - **app.py**: Implements a Streamlit-based front-end for user queries, processes reports, generates embeddings, and retrieves relevant content.
 - **utils.py**: Handles interactions with the GCP bucket and data retrieval.
 
-### Web-Age
-- **web_scraper.py**: Extracts web content from given URLs.
-- **summarizer.py**: Uses AI models to generate content summaries.
-- **chatbot.py**: Implements the conversational interface for user interaction.
-- **config.py**: Allows switching between OpenAI and Ollama models.
+### WebSage
+- **web_scraper**: Extracts web content from given URLs.
+- **summarizer**: Uses AI models to generate content summaries.
+- **chatbot**: Implements the conversational interface for user interaction.
+- **config**: Allows switching between Gemini and Ollama models.
 
 
 
