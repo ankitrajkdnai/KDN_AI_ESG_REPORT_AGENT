@@ -1,0 +1,27 @@
+filepath,year,company_symbol,company_name
+./gcs-bucket/reports/2024_AAPL.pdf,2024,AAPL,Apple Inc.
+./gcs-bucket/reports/2025_AAPL.pdf,2025,AAPL,Apple Inc.
+./gcs-bucket/reports/2025_XOM.pdf,2025,XOM,Exxon Mobil Corp.
+./gcs-bucket/reports/2025_CVX.pdf,2025,CVX,Chevron Corp.
+./gcs-bucket/reports/.DS_Store,.DS,Store,Unknown
+./gcs-bucket/reports/2024_GOOG.pdf,2024,GOOG,Alphabet Inc. Class C
+./gcs-bucket/reports/2025_GOOG.pdf,2025,GOOG,Alphabet Inc. Class C
+./gcs-bucket/reports/2025_PG.pdf,2025,PG,Procter & Gamble Company
+./gcs-bucket/reports/2025_BAC.pdf,2025,BAC,Bank of America Corp.
+./gcs-bucket/reports/2025_NFLX.pdf,2025,NFLX,Netflix Inc.
+./gcs-bucket/reports/2025_CRM.pdf,2025,CRM,Salesforce Inc.
+./gcs-bucket/reports/2025_JNJ.pdf,2025,JNJ,Johnson & Johnson
+./gcs-bucket/reports/2024_MSFT.pdf,2024,MSFT,Microsoft Corp.
+./gcs-bucket/reports/2025_MSFT.pdf,2025,MSFT,Microsoft Corp.
+./gcs-bucket/reports/2024_UNH.pdf,2024,UNH,UnitedHealth Group Inc.
+./gcs-bucket/reports/2024_NVDA.pdf,2024,NVDA,NVIDIA Corp.
+./gcs-bucket/reports/2025_NVDA.pdf,2025,NVDA,NVIDIA Corp.
+./gcs-bucket/reports/2024_GOOGL.pdf,2024,GOOGL,Alphabet Inc. Class A
+./gcs-bucket/reports/2025_UNH.pdf,2025,UNH,UnitedHealth Group Inc.
+./gcs-bucket/reports/2025_AMZN.pdf,2025,AMZN,Amazon.com Inc.
+./gcs-bucket/reports/2024_AMZN.pdf,2024,AMZN,Amazon.com Inc.
+./gcs-bucket/reports/2025_ORCL.pdf,2025,ORCL,Oracle Corp.
+./gcs-bucket/reports/2025_JPM.pdf,2025,JPM,JPMorgan Chase & Co.
+./gcs-bucket/reports/2025_GOOGL.pdf,2025,GOOGL,Alphabet Inc. Class A
+./gcs-bucket/reports/2024_JPM.pdf,2024,JPM,JPMorgan Chase & Co.
+./gcs-bucket/reports/2025_WFC.pdf,2025,WFC,Wells Fargo & Company

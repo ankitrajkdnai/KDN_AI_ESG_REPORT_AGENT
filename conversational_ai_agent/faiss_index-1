@@ -1,0 +1,4 @@
+<script>start("/Users/kdn_aiankitraj/Desktop/ESG_Intelligence_Platform/faiss_index/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("index.faiss","index.faiss",0,173613,"170 kB",1742981852,"26/03/2025, 15:07:32");</script>
+<script>addRow("index.pkl","index.pkl",0,47541,"46.4 kB",1742981852,"26/03/2025, 15:07:32");</script>
