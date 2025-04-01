@@ -123,7 +123,6 @@ The project is developed on **Google Cloud Platform (GCP)**. Reports are collect
 - **config**: Allows switching between Gemini and Ollama models.
 
 
-
 ## Conclusion
 Both **esg_reporter** and **news_esg_agent** leverage **RAG-based AI** to enhance information retrieval and summarization. These tools enable users to efficiently analyze ESG reports and interact with web content dynamically using AI-powered chatbots.
 
