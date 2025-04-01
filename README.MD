@@ -25,9 +25,7 @@ The project is developed on **Google Cloud Platform (GCP)**. Reports are collect
 <img width="830" alt="Image" src="https://github.com/user-attachments/assets/1e98f6ec-861b-4981-b6e3-7d63777dceb1" />
 <img width="815" alt="Image" src="https://github.com/user-attachments/assets/6a27ddac-33dc-4e3f-aae0-c7f5a71d5779" />
 <img width="769" alt="Image" src="https://github.com/user-attachments/assets/92a774b6-1776-41fc-8ecc-0e6e83ed08da" />
-<img width="1476" alt="Image" src="https://github.com/user-attachments/assets/808ba933-7095-4356-a67c-4be2647bc598" />
-<img width="792" alt="Image" src="https://github.com/user-attachments/assets/f43948d4-36d4-4cf7-ad38-ef92adeae30b" />
-<img width="439" alt="Image" src="https://github.com/user-attachments/assets/3ea00702-e706-4283-9741-d8c0c67e571f" />
+
 
 ---
 
@@ -46,7 +44,9 @@ The project is developed on **Google Cloud Platform (GCP)**. Reports are collect
 - **AI Model Flexibility:** Supports multiple AI models, including OpenAI and Ollama.
 
 #### Screenshots
-_(Add screenshots here)_
+<img width="1476" alt="Image" src="https://github.com/user-attachments/assets/808ba933-7095-4356-a67c-4be2647bc598" />
+<img width="792" alt="Image" src="https://github.com/user-attachments/assets/f43948d4-36d4-4cf7-ad38-ef92adeae30b" />
+<img width="439" alt="Image" src="https://github.com/user-attachments/assets/3ea00702-e706-4283-9741-d8c0c67e571f" />
 
 ---
 
