@@ -33,7 +33,7 @@ The project is developed on **Google Cloud Platform (GCP)**. Reports are collect
 
 ### AI-Powered Web Content Extraction and Summarization
 
-#### Welcome to WEB-AGE
+#### Welcome to WEBSAGE
 **WEB-AGE** is an advanced RAG Chatbot application designed to extract content from any URL, generate detailed summaries, and facilitate AI-powered interactions. Users can choose between **Closed Source (OpenAI)** and **Open Source (Ollama)** for flexible summarization and conversation.
 
 #### Features
