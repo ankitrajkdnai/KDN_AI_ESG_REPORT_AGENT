@@ -1,4 +1,4 @@
-# QnA ESG Reporter & Web-Age
+# QnA ESG Reporter & WebSage
 
 ## QnA ESG Reporter
 
